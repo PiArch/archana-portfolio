@@ -149,7 +149,7 @@ function App() {
               <br />
               between <span>technology,</span>
               <br />
-              business & ideas.
+              data & business.
             </h1>
 
             <p className="hero-description">
